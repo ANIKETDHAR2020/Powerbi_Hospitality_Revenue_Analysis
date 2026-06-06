@@ -78,7 +78,9 @@ Contains aggregated operational metrics:
 ## Data Modeling
 
 A Star Schema approach was implemented to establish efficient relationships between fact and dimension tables.
+## Data Model
 
+![Data Model](data_model.png)
 ### Relationship Structure
 
 - dim_date → fact tables
