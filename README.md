@@ -135,9 +135,9 @@ The following preprocessing steps were performed:
 
 ### Booking Metrics
 
-- Total Bookings
+-    Total Bookings
 - Total Successful Bookings
-- Total Cancelled Bookings
+-  Total Cancelled Bookings
 - Total Checked Out
 - Total No Show Bookings
 - Booking % by Platform
@@ -265,7 +265,6 @@ Detailed comparison of:
 
 
 ![Hospitality Dashboard](dashboard.png)
-(Add dashboard.png screenshot here)
 
 ---
 
